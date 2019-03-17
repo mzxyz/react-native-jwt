@@ -10,11 +10,6 @@ This library provides JSON web token parser for React-Native. Only support `HS25
 
 `$ react-native link react-native-jwt-utils`
 
-## TODO List
-
-1. ~~Support iOS ~~ [`Finished`]
-2. Support android
-
 ### Manual installation
 
 
