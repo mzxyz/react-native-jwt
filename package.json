@@ -1,7 +1,7 @@
 {
   "name": "react-native-jwt-utils",
-  "version": "0.1.6",
-  "description": "",
+  "version": "0.1.7",
+  "description": "This library provides JSON web token parser for React-Native",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,8 +9,13 @@
   "keywords": [
     "react-native"
   ],
-  "author": "",
-  "license": "",
+  "homepage": "https://github.com/HuanDay/react-native-jwt",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuanDay/react-native-jwt.git"
+  },
+  "author": "HZ",
+  "license": "MIT",
   "peerDependencies": {
     "react-native": "*"
   },
